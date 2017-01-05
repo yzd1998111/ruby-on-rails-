@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"calc",
+				"Calculator"
+			],
+			[
+				"new",
+				"newLastName"
+			],
+			[
+				"per",
+				"Person"
+			],
+			[
+				"lo",
+				"local_variables"
+			],
+			[
+				"my",
+				"my_method"
+			],
+			[
+				"play",
+				"player1"
+			],
+			[
+				"add",
+				"add_players"
+			],
+			[
+				"red",
+				"red_team"
+			],
+			[
+				"att",
+				"attr_accessor"
+			],
+			[
+				"maxx",
+				"maxx3"
+			],
+			[
+				"times",
+				"times_called"
+			],
+			[
+				"call",
+				"call_Time"
+			],
+			[
+				"P",
+				"Person"
+			],
+			[
+				"num",
+				"num_arr"
+			],
+			[
+				"ad",
+				"adjust_color"
+			],
+			[
+				"ed",
+				"editor_dict3"
+			],
+			[
+				"er",
+				"editor_dict3"
+			],
+			[
+				"to_s",
+				"two_times_implicit"
+			],
+			[
+				"mul",
+				"multiply"
+			],
+			[
+				"two",
+				"two_times_explicit"
+			],
+			[
+				"one",
+				"onePara"
+			],
+			[
+				"each",
+				"eachYPixel"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"get",
+				"get_rect"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"el",
+				"elpsed"
+			],
+			[
+				"scree",
+				"screenWidth"
+			],
+			[
+				"game",
+				"gameEntered"
+			],
+			[
+				"roc",
+				"roc2"
+			],
+			[
+				"sub",
+				"sublist1"
+			],
+			[
+				"list",
+				"listOfN"
+			],
+			[
+				"cou",
+				"countKosbie"
+			],
+			[
+				"coun",
+				"countKosbieWrap"
+			],
+			[
+				"c",
+				"curmana"
+			],
+			[
+				"f",
+				"findLargestFile"
+			],
+			[
+				"lar",
+				"largestFile"
+			],
+			[
+				"powero",
+				"powerOf3ToNWithDepth"
+			],
+			[
+				"a",
+				"alternatingSumWithDepth"
+			],
+			[
+				"alt",
+				"alternatingSum"
+			],
+			[
+				"al",
+				"alernatingSum"
+			],
+			[
+				"alter",
+				"alternatingSumWithDepth"
+			],
+			[
+				"str",
+				"strNum"
+			],
+			[
+				"is",
+				"isCountish"
+			],
+			[
+				"as",
+				"assertEqual"
+			],
+			[
+				"set",
+				"setOfSquares"
+			],
+			[
+				"con",
+				"containsPythagoreanTriple"
+			],
+			[
+				"in",
+				"index1"
+			],
+			[
+				"start",
+				"start1"
+			],
+			[
+				"ind",
+				"index2"
+			],
+			[
+				"inde",
+				"index1"
+			],
+			[
+				"sta",
+				"startOfList1"
+			],
+			[
+				"swa",
+				"swapped"
+			],
+			[
+				"p",
+				"pytjp1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Ruby/Ruby.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Ruby/Ruby.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bable",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"packcontrolins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagecontrolin",
+				"Package Control: Install Package"
+			],
+			[
+				"package conrol:in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yuanzhendong/Desktop/rails/ruby.rb",
+		"/Users/yuanzhendong/Desktop/js html css/newJS.js",
+		"/Users/yuanzhendong/Desktop/js html css/newH.html",
+		"/Users/yuanzhendong/Desktop/asdasdasd.html",
+		"/Users/yuanzhendong/Desktop/rails/rubyyyyy.rb",
+		"/Users/yuanzhendong/Desktop/1111.cpp",
+		"/Users/yuanzhendong/Downloads/pinter/Path.h",
+		"/Users/yuanzhendong/Desktop/tp/Untitled.py",
+		"/Users/yuanzhendong/Desktop/112 week 11/dds",
+		"/Users/yuanzhendong/Desktop/asdsadsadsadsdasadsadasd",
+		"/Users/yuanzhendong/Desktop/112 week 11/qwe",
+		"/Users/yuanzhendong/Desktop/11.png",
+		"/Users/yuanzhendong/Desktop/tptppp",
+		"/Users/yuanzhendong/Desktop/week8/asddasadsdasadsda",
+		"/Users/yuanzhendong/Desktop/asdsdadasasddas.py",
+		"/Users/yuanzhendong/Desktop/week 10/lab10",
+		"/Users/yuanzhendong/Desktop/week 10/*REPL* [python]",
+		"/Users/yuanzhendong/Downloads/Py2Play-0.1.10.tar.gz.sig",
+		"/Users/yuanzhendong/Desktop/week8/asdasddsaadsdsasadasd",
+		"/Users/yuanzhendong/Desktop/week8/lab8",
+		"/Users/yuanzhendong/Desktop/week 7/pp",
+		"/Users/yuanzhendong/Desktop/week8/lab9",
+		"/Users/yuanzhendong/Desktop/week 7/asdadsdsdasas",
+		"/Users/yuanzhendong/Desktop/quizzz",
+		"/Users/yuanzhendong/Desktop/week 7/lab7",
+		"/Users/yuanzhendong/Desktop/untitled folder/asd",
+		"/Users/yuanzhendong/Desktop/untitled folder/asdasdsdaasddasdsadsasad",
+		"/Users/yuanzhendong/Desktop/check7.py",
+		"/Users/yuanzhendong/Downloads/lab5.py",
+		"/Users/yuanzhendong/Downloads/hw6.py",
+		"/Users/yuanzhendong/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/yuanzhendong/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/yuanzhendong/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/yuanzhendong/Desktop/asdasd.py",
+		"/Users/yuanzhendong/Documents/default_file_type.sublime-settings",
+		"/Users/yuanzhendong/Library/Application Support/Sublime Text 3/Packages/User/python-with-ui-options.py",
+		"/Users/yuanzhendong/Documents/asd",
+		"/Users/yuanzhendong/Desktop/untitled.sublime-build",
+		"/Users/yuanzhendong/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/yuanzhendong/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yuanzhendong/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/yuanzhendong/Desktop/test.html",
+		"/Users/yuanzhendong/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/yuanzhendong/Desktop/*REPL* [python]",
+		"/Users/yuanzhendong/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/yuanzhendong/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/untitled"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"split",
+			"file",
+			"i/o",
+			"major",
+			"Integer",
+			" ",
+			"知名",
+			"form",
+			"input",
+			"text",
+			"*",
+			"fval",
+			"gra",
+			"gran",
+			"granularity",
+			"hitTable",
+			"hit",
+			"computeline",
+			"computeroute2",
+			"hittable",
+			"hitTable",
+			"table",
+			"dist_mult",
+			"sqrtTable",
+			"findpath",
+			"computedirectroute",
+			"computeroute",
+			"makesmallpoint",
+			"gsearch",
+			"finfo",
+			"constructPath",
+			"dummy",
+			"pathtilenodetype",
+			"route",
+			"Fpoint",
+			"point",
+			"MAKEPOINT",
+			"dist_m",
+			"distmult",
+			"dist_mult",
+			"hybridpath",
+			"makepoint",
+			"capradian",
+			"curtile",
+			"fabs",
+			"48",
+			"gturnradi",
+			"DOTHEPATH",
+			"ls",
+			"curveWalk",
+			"gbCurved",
+			"speed",
+			"gbcurved",
+			"NW",
+			"pygame.display",
+			"))",
+			"pvdev",
+			")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 272.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hello_static.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/rails/my_first_app/app/views/greeter/hello.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
